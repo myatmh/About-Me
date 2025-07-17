@@ -1,4 +1,4 @@
-![Banner](./assets/banner.jpg)
+![Banner](./assets/quote.png)
 ![Status](https://img.shields.io/badge/learning-everyday-orange)
 
 # Hi, I'm Myat Min Htwe! 👋
