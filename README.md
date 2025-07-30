@@ -6,20 +6,20 @@
 I'm a junior web developer returning to tech after a 6-month break.Now I'm rebuilding my skills with a focused, practical roadmap:
 
 - 🎯 **HTML & CSS**
-- 🎯 **JavaScript** (currently focused here)
-- 🎯 **React (with Tailwind)** (coming soon)
+- 🎯 **JavaScript**
+- 🎯 **React (with Tailwind)**
 - 🎯 **PHP (Laravel)**
-- 🎯 **React Native** (future goal)
+- 🎯 **React Native**
 - 🌟 **Plus: databases, Git,Github and everything else like framework,libraries a modern developer needs!**
 
-## 🛠 Skills *( current )*
-🏆 **HTML**
+## 🛠 Skills *(🚩 current 🚩)*
+🏆 **HTML** (*well-grounded*)
 
-🏆 **CSS**
+🏆 **CSS** (*confident in UI style - responsive & animated*)
 
-🏆 **JavaScript** (beyond beginner)
+🏆 **JavaScript** (*beyond beginner - hands-on logic skills*)
 
-🏆 **Git / GitHub**
+🏆 **Git / GitHub** (*consistent daily workflow*)
 
 ## 🛠️ Projects
 - *[Home Plant Decoration Site](https://github.com/myatmh/home-plant-decor)*
